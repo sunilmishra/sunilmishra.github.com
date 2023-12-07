@@ -4,7 +4,7 @@ I work as a Sr. Application Develoepr at [Teva Pharmaceuticals](https://www.teva
 - Over a **decade** of experience in architecting, building, scaling, and delivering high-quality mobile solutions.
 - Strong communication and technical expertise in building products from conceptualize state to ready and available at massive scale.
 - Responsible for crafting a scalable mobile architecture, manage SDLC, and the Cross-team collaborations.
-- Build the team culture based on trust, technical excellences, collaboration, product centric approach, and managing 10+ engineers.
+- Build the team culture based on trust, technical excellences, collaboration, product centric approach.
 - Extensive experience in working with geographically dispersed teams and customers/partners.
 - 10+ years of experience in Android app development.
 - 5+ years of experience in Flutter Application Development.
