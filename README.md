@@ -1,6 +1,6 @@
 # Hi, I'm Sunil 👋  &emsp; &emsp; &emsp; [Github](https://github.com/sunilmishra)
 <br/>
-I work as a Sr. Application Develoepr at [Teva Pharmaceuticals](https://www.tevausa.com) where I lead the mobile development team. I'm an alumni of National Institute of Technology - Allahabad.
+I work as a Sr. Application Develoepr at [Teva Pharmaceuticals](https://www.tevausa.com) where I lead the mobile development team. 
 
 - Over a **decade** of experience in architecting, building, scaling, and delivering high-quality mobile solutions.
 - Strong communication and technical expertise in building products from conceptualize state to ready and available at massive scale.
@@ -17,11 +17,13 @@ I work as a Sr. Application Develoepr at [Teva Pharmaceuticals](https://www.teva
     o Agile | Scrum
  
 ## Technical Skills:
-    o Android, Jetpack libraries, Kotlin, Coroutines, Flows, Retrofits, Room, Java, iOS, Swift,
+    o Android, Jetpack libraries, Kotlin, Coroutines, Flows, Retrofits, Room, Dagger/Hilt, Java, iOS, Swift,
       Bluetooth(BLE), Reactive Programing
     o Flutter, Dart, BLOC, Provider/Riverpod
-    o Firebase, Supabase, gRPC, Protobuff.
+    o Kotlin Multiplatform, Compose-UI, Ktor, SQLDelight, Realm
+    o Firebase, Supabase, REST, GraphQL, gRPC, Protobuff
     o Spring framework, NestJS, React Native
-    o Clean Architecture, OOAD/UML diagrams, Lucid chart, SOLID, Design Patterns
+    o Solution Design, Clean Architecture, OOAD/UML, SOLID, Design Patterns, Lucid Chart, Dia
     o GIT, CI/CD (Circle-CI, GITFlow), JIRA, Sentry, Zeplin, Confluence
+    
 
