@@ -1,6 +1,6 @@
 # Hi, I'm Sunil 👋  &emsp; &emsp; &emsp; [Github](https://github.com/sunilmishra)
 <br/>
-  I work as a Sr. Software Engineer(Mobile) at [Pison Technologies](https://www.pison.com) where I lead mobile development. 
+  I work as a Sr. Software Engineer(Mobile) at [Pison](https://www.pison.com) where I lead mobile development. 
 
 - Engineering leader with over a **decade** of experience in architecting, building, and delivering high-quality mobile applications.
   
